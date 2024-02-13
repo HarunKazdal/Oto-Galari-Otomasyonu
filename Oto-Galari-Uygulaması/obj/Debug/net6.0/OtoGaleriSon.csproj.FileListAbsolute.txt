@@ -1,0 +1,42 @@
+C:\Users\Emre Doğan\source\repos\OtoGaleriSon\obj\Debug\net6.0\OtoGaleriSon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre Doğan\source\repos\OtoGaleriSon\obj\Debug\net6.0\OtoGaleriSon.AssemblyInfoInputs.cache
+C:\Users\Emre Doğan\source\repos\OtoGaleriSon\obj\Debug\net6.0\OtoGaleriSon.AssemblyInfo.cs
+C:\Users\Emre Doğan\source\repos\OtoGaleriSon\obj\Debug\net6.0\OtoGaleriSon.csproj.CoreCompileInputs.cache
+C:\Users\Emre Doğan\source\repos\OtoGaleriSon\bin\Debug\net6.0\OtoGaleriSon.exe
+C:\Users\Emre Doğan\source\repos\OtoGaleriSon\bin\Debug\net6.0\OtoGaleriSon.deps.json
+C:\Users\Emre Doğan\source\repos\OtoGaleriSon\bin\Debug\net6.0\OtoGaleriSon.runtimeconfig.json
+C:\Users\Emre Doğan\source\repos\OtoGaleriSon\bin\Debug\net6.0\OtoGaleriSon.dll
+C:\Users\Emre Doğan\source\repos\OtoGaleriSon\bin\Debug\net6.0\OtoGaleriSon.pdb
+C:\Users\Emre Doğan\source\repos\OtoGaleriSon\obj\Debug\net6.0\OtoGaleriSon.dll
+C:\Users\Emre Doğan\source\repos\OtoGaleriSon\obj\Debug\net6.0\refint\OtoGaleriSon.dll
+C:\Users\Emre Doğan\source\repos\OtoGaleriSon\obj\Debug\net6.0\OtoGaleriSon.pdb
+C:\Users\Emre Doğan\source\repos\OtoGaleriSon\obj\Debug\net6.0\OtoGaleriSon.genruntimeconfig.cache
+C:\Users\Emre Doğan\source\repos\OtoGaleriSon\obj\Debug\net6.0\ref\OtoGaleriSon.dll
+C:\Users\User\Desktop\OtoGaleriSon\bin\Debug\net6.0\OtoGaleriSon.exe
+C:\Users\User\Desktop\OtoGaleriSon\bin\Debug\net6.0\OtoGaleriSon.deps.json
+C:\Users\User\Desktop\OtoGaleriSon\bin\Debug\net6.0\OtoGaleriSon.runtimeconfig.json
+C:\Users\User\Desktop\OtoGaleriSon\bin\Debug\net6.0\OtoGaleriSon.dll
+C:\Users\User\Desktop\OtoGaleriSon\bin\Debug\net6.0\OtoGaleriSon.pdb
+C:\Users\User\Desktop\OtoGaleriSon\obj\Debug\net6.0\OtoGaleriSon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\OtoGaleriSon\obj\Debug\net6.0\OtoGaleriSon.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\OtoGaleriSon\obj\Debug\net6.0\OtoGaleriSon.AssemblyInfo.cs
+C:\Users\User\Desktop\OtoGaleriSon\obj\Debug\net6.0\OtoGaleriSon.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OtoGaleriSon\obj\Debug\net6.0\OtoGaleriSon.dll
+C:\Users\User\Desktop\OtoGaleriSon\obj\Debug\net6.0\refint\OtoGaleriSon.dll
+C:\Users\User\Desktop\OtoGaleriSon\obj\Debug\net6.0\OtoGaleriSon.pdb
+C:\Users\User\Desktop\OtoGaleriSon\obj\Debug\net6.0\OtoGaleriSon.genruntimeconfig.cache
+C:\Users\User\Desktop\OtoGaleriSon\obj\Debug\net6.0\ref\OtoGaleriSon.dll
+C:\Users\User\Desktop\Oto-Galari-Uygulaması\bin\Debug\net6.0\OtoGaleriSon.exe
+C:\Users\User\Desktop\Oto-Galari-Uygulaması\bin\Debug\net6.0\OtoGaleriSon.deps.json
+C:\Users\User\Desktop\Oto-Galari-Uygulaması\bin\Debug\net6.0\OtoGaleriSon.runtimeconfig.json
+C:\Users\User\Desktop\Oto-Galari-Uygulaması\bin\Debug\net6.0\OtoGaleriSon.dll
+C:\Users\User\Desktop\Oto-Galari-Uygulaması\bin\Debug\net6.0\OtoGaleriSon.pdb
+C:\Users\User\Desktop\Oto-Galari-Uygulaması\obj\Debug\net6.0\OtoGaleriSon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Oto-Galari-Uygulaması\obj\Debug\net6.0\OtoGaleriSon.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Oto-Galari-Uygulaması\obj\Debug\net6.0\OtoGaleriSon.AssemblyInfo.cs
+C:\Users\User\Desktop\Oto-Galari-Uygulaması\obj\Debug\net6.0\OtoGaleriSon.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Oto-Galari-Uygulaması\obj\Debug\net6.0\OtoGaleriSon.dll
+C:\Users\User\Desktop\Oto-Galari-Uygulaması\obj\Debug\net6.0\refint\OtoGaleriSon.dll
+C:\Users\User\Desktop\Oto-Galari-Uygulaması\obj\Debug\net6.0\OtoGaleriSon.pdb
+C:\Users\User\Desktop\Oto-Galari-Uygulaması\obj\Debug\net6.0\OtoGaleriSon.genruntimeconfig.cache
+C:\Users\User\Desktop\Oto-Galari-Uygulaması\obj\Debug\net6.0\ref\OtoGaleriSon.dll
